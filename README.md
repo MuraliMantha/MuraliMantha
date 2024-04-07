@@ -8,7 +8,7 @@
 </div>
 
 <div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Murali-056&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=MuraliMantha&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
@@ -75,11 +75,11 @@ Let's Connect
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Murali-056&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MuraliMantha&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murali-056)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliMantha)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murali-056&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuraliMantha&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
